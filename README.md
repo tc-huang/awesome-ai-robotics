@@ -1,4 +1,6 @@
 # awesome-ai-robotics
+## Library
+- [**LeRobot**](https://github.com/huggingface/lerobot) - LeRobot aims to provide models, datasets, and tools for real-world robotics in PyTorch. LeRobot contains state-of-the-art approaches that have been shown to transfer to the real-world with a focus on imitation learning and reinforcement learning.
 
 ## Robotic Arms
 ### Hardware
