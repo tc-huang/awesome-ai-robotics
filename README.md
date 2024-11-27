@@ -23,7 +23,8 @@
 - [**BiGym**](https://github.com/chernyadev/bigym) - BiGym is a new benchmark and learning environment for mobile bi-manual demo-driven robotic manipulation. BiGym features 40 diverse tasks set in home environments, ranging from simple target reaching to complex kitchen cleaning.
 - [**Aloha Bigym Modifications**](https://github.com/AlmondGod/aloha-bigym) - This Fork of Bigym contains the bigym tasks modified to work with the ALOHA bimanual system.
 
-## Mobile Manipulator
+## Mobile Robot
+- [**RoBart**](https://github.com/trzy/RoBart) - An iPhone-based LLM-controlled autonomous robot. RoBart began as an attempt to build a cheap mobile base using a hoverboard and iPhone Pro. Mobile phones are easy to work with and provide plenty of compute, connectivity, and useful peripherals: RGB cameras, LiDAR, microphones, speakers.
 - [**stretch (hello-robot)**](https://github.com/hello-robot)
 - [**ReallyUsefulRobot**](https://github.com/XRobots/ReallyUsefulRobot)
 - [**Maxwell**](https://github.com/mikeferguson/maxwell) - Maxwell is a custom mobile manipulator based on the Etherbotix.
