@@ -69,6 +69,7 @@
 
 ## Learning Source
 - [**Modern Robotics**](https://github.com/NxRLab/ModernRobotics) - This repository contains the code library accompanying Modern Robotics: Mechanics, Planning, and Control (Kevin Lynch and Frank Park, Cambridge University Press 2017).
+- [**ROS2 Cookbook**](https://github.com/mikeferguson/ros2_cookbook) - A collection of snippets ranging multiple topics in ROS 2
 - [**mjctrl**](https://github.com/kevinzakka/mjctrl) - Minimal, clean, single-file implementations of common robotics controllers in MuJoCo.
 - [**Pinocchio**](https://github.com/stack-of-tasks/pinocchio) - Pinocchio instantiates the state-of-the-art Rigid Body Algorithms for poly-articulated systems based on revisited Roy Featherstone's algorithms. Besides, Pinocchio provides the analytical derivatives of the main Rigid-Body Algorithms, such as the Recursive Newton-Euler Algorithm or the Articulated-Body Algorithm.
   - [**PyRoboPlan**](https://github.com/sea-bass/pyroboplan) - Educational Python library for manipulator motion planning.This library extensively uses the Pinocchio Python bindings for modeling robot kinematics and dynamics.
