@@ -11,6 +11,7 @@
 - [**Low-Cost Robot Arm: Koch v1.1**](https://github.com/jess-moss/koch-v1-1) - A version 1.1 of the Alexander Koch low-cost robot arm with some small changes.
 - [**moss-robot-arms**](https://github.com/jess-moss/moss-robot-arms) - A repository for affordable, easy-to-assemble robot arms designed for teleoperation applications.
 - [**SO-ARM100**](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100.
+- [**SO-ARM102**](https://github.com/roboninecom/SO-ARM-102) - 3D-printable leader-follower arm by Robonine with 5 DOF plus a parallel gripper for LeRobot teleoperation and imitation learning.
 #### More-cost
 - [**Dummy-Robot**](https://github.com/peng-zhihui/Dummy-Robot) - Super compact smart robotic-arm.
 [![Star History Chart](https://api.star-history.com/svg?repos=AlexanderKoch-Koch/low_cost_robot,jess-moss/koch-v1-1,jess-moss/moss-robot-arms,TheRobotStudio/SO-ARM100,peng-zhihui/Dummy-Robot&type=Timeline)](https://star-history.com/#AlexanderKoch-Koch/low_cost_robot&jess-moss/koch-v1-1&jess-moss/moss-robot-arms&TheRobotStudio/SO-ARM100&peng-zhihui/Dummy-Robot&Timeline)
