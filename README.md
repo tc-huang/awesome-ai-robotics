@@ -25,6 +25,9 @@
 - [**LeRobot**](https://github.com/huggingface/lerobot) by Hugging Face: An end-to-end robot learning library in PyTorch, with datasets, policies such as ACT, Diffusion Policy, π0, and SmolVLA, and support for low-cost robots like the SO-100 and Koch arms. [[Paper]](https://arxiv.org/abs/2602.22818) [[Docs]](https://huggingface.co/docs/lerobot)
 - [**RLinf**](https://github.com/RLinf/RLinf): Reinforcement learning infrastructure for embodied and agentic AI, including large-scale RL training of VLA models. [[Paper]](https://arxiv.org/abs/2509.15965) [[RLinf-VLA Paper]](https://arxiv.org/abs/2510.06710) [[Docs]](https://rlinf.readthedocs.io/en/latest/)
 
+## Learning Resources
+- [**Spinning Up in Deep RL**](https://spinningup.openai.com/en/latest/) by OpenAI: An educational resource for deep reinforcement learning, with an introduction to key RL concepts, a curated list of key papers, exercises, and clean implementations of VPG, TRPO, PPO, DDPG, TD3, and SAC. [[Code]](https://github.com/openai/spinningup)
+
 ## YouTube
 - [**VLA policies in robotics**](https://www.youtube.com/playlist?list=PLaqgu2SjelC6yZprhmbkLZUGXw3njRxME) by [Ilia](https://www.youtube.com/@ilialarchenko): A video series on Vision-Language-Action policies, covering VLA basics, π0, π0.5, and GR00T, plus a BEHAVIOR Challenge 1st-place solution walkthrough.
 - [**LeHome Challenge at ICRA 2026**](https://www.youtube.com/playlist?list=PLLwBN_w7MtPk) by [Ilia](https://www.youtube.com/@ilialarchenko): The author's laundry-folding solution for the challenge, built with VLAs, reinforcement learning, sim2real, and DAgger-style human-in-the-loop data collection.
