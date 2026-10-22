@@ -1,5 +1,8 @@
 # awesome-ai-robotics
 
+> [!NOTE]
+> This list is currently being updated. The previous version is available in [README_old.md](README_old.md).
+
 ## Papers
 ### Imitation Learning Policies
 - **Robomimic** (2021): What Matters in Learning from Offline Human Demonstrations for Robot Manipulation. [[Paper]](https://arxiv.org/abs/2108.03298) [[Code]](https://github.com/ARISE-Initiative/robomimic) [[Project]](https://robomimic.github.io/)
