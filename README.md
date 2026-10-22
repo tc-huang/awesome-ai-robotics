@@ -23,6 +23,7 @@
 
 ## Libraries
 - [**LeRobot**](https://github.com/huggingface/lerobot) by Hugging Face: An end-to-end robot learning library in PyTorch, with datasets, policies such as ACT, Diffusion Policy, π0, and SmolVLA, and support for low-cost robots like the SO-100 and Koch arms. [[Paper]](https://arxiv.org/abs/2602.22818) [[Docs]](https://huggingface.co/docs/lerobot)
+- [**open-pi-zero**](https://github.com/allenzren/open-pi-zero) by [Allen Ren](https://github.com/allenzren): An unofficial re-implementation of π0 based on the paper, pairing a pre-trained PaliGemma VLM with a separate action expert trained with flow matching.
 - [**RLinf**](https://github.com/RLinf/RLinf): Reinforcement learning infrastructure for embodied and agentic AI, including large-scale RL training of VLA models. [[Paper]](https://arxiv.org/abs/2509.15965) [[RLinf-VLA Paper]](https://arxiv.org/abs/2510.06710) [[Docs]](https://rlinf.readthedocs.io/en/latest/)
 
 ## Learning Resources
