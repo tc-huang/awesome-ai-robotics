@@ -27,6 +27,7 @@
 - [**RLinf**](https://github.com/RLinf/RLinf): Reinforcement learning infrastructure for embodied and agentic AI, including large-scale RL training of VLA models. [[Paper]](https://arxiv.org/abs/2509.15965) [[RLinf-VLA Paper]](https://arxiv.org/abs/2510.06710) [[Docs]](https://rlinf.readthedocs.io/en/latest/)
 
 ## Learning Resources
+- [**Modern Robotics: Mechanics, Planning, and Control**](https://hades.mech.northwestern.edu/index.php/Modern_Robotics) by Kevin M. Lynch and Frank C. Park: A textbook on the fundamentals of robot kinematics, dynamics, motion planning, and control. [[PDF]](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) [[Code]](https://github.com/NxRLab/ModernRobotics)
 - [**Spinning Up in Deep RL**](https://spinningup.openai.com/en/latest/) by OpenAI: An educational resource for deep reinforcement learning, with an introduction to key RL concepts, a curated list of key papers, exercises, and clean implementations of VPG, TRPO, PPO, DDPG, TD3, and SAC. [[Code]](https://github.com/openai/spinningup)
 
 ## YouTube
