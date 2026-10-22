@@ -16,6 +16,10 @@
 - **π0.5** (2025): π0.5: a Vision-Language-Action Model with Open-World Generalization. [[Paper]](https://arxiv.org/abs/2504.16054) [[Code]](https://github.com/Physical-Intelligence/openpi) [[Project]](https://www.pi.website/blog/pi05)
 - **SmolVLA** (2025): SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics. [[Paper]](https://arxiv.org/abs/2506.01844) [[Code]](https://github.com/huggingface/lerobot) [[Project]](https://huggingface.co/blog/smolvla)
 
+### Diffusion and Flow Matching Tutorials
+- **Step-by-Step Diffusion** (2024): Step-by-Step Diffusion: An Elementary Tutorial. [[Paper]](https://arxiv.org/abs/2406.08929)
+- **Flow Matching Guide** (2024): Flow Matching Guide and Code. [[Paper]](https://arxiv.org/abs/2412.06264) [[Code]](https://github.com/facebookresearch/flow_matching)
+
 ## YouTube
 - [**VLA policies in robotics**](https://www.youtube.com/playlist?list=PLaqgu2SjelC6yZprhmbkLZUGXw3njRxME) by [Ilia](https://www.youtube.com/@ilialarchenko): A video series on Vision-Language-Action policies, covering VLA basics, π0, π0.5, and GR00T, plus a BEHAVIOR Challenge 1st-place solution walkthrough.
 - [**LeHome Challenge at ICRA 2026**](https://www.youtube.com/playlist?list=PLLwBN_w7MtPk) by [Ilia](https://www.youtube.com/@ilialarchenko): The author's laundry-folding solution for the challenge, built with VLAs, reinforcement learning, sim2real, and DAgger-style human-in-the-loop data collection.
