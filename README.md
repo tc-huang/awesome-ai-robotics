@@ -17,3 +17,9 @@
 - [**VLA policies in robotics**](https://www.youtube.com/playlist?list=PLaqgu2SjelC6yZprhmbkLZUGXw3njRxME) by [Ilia](https://www.youtube.com/@ilialarchenko): A video series on Vision-Language-Action policies, covering VLA basics, π0, π0.5, and GR00T, plus a BEHAVIOR Challenge 1st-place solution walkthrough.
 - [**LeHome Challenge at ICRA 2026**](https://www.youtube.com/playlist?list=PLLwBN_w7MtPk) by [Ilia](https://www.youtube.com/@ilialarchenko): The author's laundry-folding solution for the challenge, built with VLAs, reinforcement learning, sim2real, and DAgger-style human-in-the-loop data collection.
 - [**RoboPapers**](https://www.youtube.com/@RoboPapers) by Chris Paxton and Michael Cho: Weekly conversations with the authors of robotics AI papers.
+
+## Article
+- [**Behavioral cloning mystery**](https://seohong.me/blog/behavioral-cloning-mystery/) by [Seohong Park](https://seohong.me/): Reproduces puzzling behavioral cloning phenomena seen with real robot data in a controlled simulated benchmark, and discusses their potential causes and implications.
+- [**How robot arms are controlled**](https://x.com/ja_rothschild/status/2100633491432239411) by [Jacob H. Rothschild](https://x.com/ja_rothschild): How a robot arm such as the SO-100 is controlled, explained for ML practitioners new to robot learning.
+- [**How ACT works**](https://x.com/ja_rothschild/status/2102818197393289678) by [Jacob H. Rothschild](https://x.com/ja_rothschild): Why and how ACT predicts a chunk of future actions instead of only the next one.
+- [**How diffusion policies work**](https://x.com/ja_rothschild/status/2105680794480169137) by [Jacob H. Rothschild](https://x.com/ja_rothschild): Diffusion and flow matching built up from the VAE, as used by Diffusion Policy, GR00T, and most π models.
